@@ -35,7 +35,7 @@ The pop-up appears when the button is clicked using the CSS `:target` pseudo-cla
 This allows the modal to open without JavaScript.
 
 ## 🙌 Author
-Palak
+Palak Ajay Tiwari
 
 ## 💡 Future Improvements
 * Add dark overlay background
