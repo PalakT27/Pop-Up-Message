@@ -10,13 +10,11 @@ This project demonstrates how to create a modal/pop-up without using JavaScript.
 * 🔗 CSS `:target` selector functionality
 * 📱 Beginner-friendly responsive design
 
-
 ## 🛠️ Technologies Used
 * HTML5
 * CSS3
 
 ## 📂 Project Structure
-
 ```id="kzqzv9"
 popup-message-project/
 │
@@ -24,10 +22,7 @@ popup-message-project/
 └── style.css
 ```
 
----
-
 ## 💡 How It Works
-
 The pop-up appears when the button is clicked using the CSS `:target` pseudo-class.
 
 ```css id="eh0x2v"
@@ -35,15 +30,14 @@ The pop-up appears when the button is clicked using the CSS `:target` pseudo-cla
     visibility: visible;
     opacity: 1;
 }
+```
 
 This allows the modal to open without JavaScript.
-
 
 ## 🙌 Author
 Palak
 
 ## 💡 Future Improvements
-
 * Add dark overlay background
 * Add animation effects
 * Add responsive popup sizing
